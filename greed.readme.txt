@@ -1,0 +1,6 @@
+1.Open Topcoder arena -> Login -> Options -> Editor -> Add
+name:Greed 2.0
+EntryPoint:greed.Greed
+Classpath:<jar.path>
+2.Click Configure to add this git folder {savepath}/topcoder
+
